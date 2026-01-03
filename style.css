@@ -228,7 +228,7 @@ footer {
     }
     @media (max-width: 768px) {
 
-  .action-buttons {
+  .buttons {
     gap: 8px;
   }
 
@@ -243,4 +243,5 @@ footer {
 body {
     overflow-x: hidden;
 }
+
 
